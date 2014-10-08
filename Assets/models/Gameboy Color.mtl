@@ -1,0 +1,61 @@
+# Blender MTL File: 'Gameboy Color.blend'
+# Material Count: 6
+
+newmtl Red_LED
+Ns 749.999996
+Ka 0.000000 0.000000 0.000000
+Kd 0.164583 0.000000 0.000000
+Ks 0.156250 0.156250 0.156250
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Screen_Surround
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.011255 0.011255 0.011255
+Ks 0.062500 0.062500 0.062500
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Blender\Blender projects\Gameboy Color\Unwraps\After Mapped\gameboy_body.png
+
+newmtl buttons
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.045569 0.045569 0.045569
+Ks 0.112964 0.112964 0.112964
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl gameboy_body
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.169066 0.438325 0.789326
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Blender\Blender projects\Gameboy Color\Unwraps\After Mapped\gameboy_body.png
+
+newmtl gameboy_display
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.681362 0.789326 0.392349
+Ks 0.125000 0.125000 0.125000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl gameboy_glass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.104167 0.104167 0.104167
+Ni 1.000000
+d 0.114583
+illum 2
+map_Kd D:\\Blender\\Blender projects\\Gameboy Color\\Unwraps\\Logos and Icons\\POWER_ICON.png
+map_Ke D:\\Blender\\Blender projects\\Gameboy Color\\Unwraps\\Logos and Icons\\POWER_ICON.png
+map_d D:\\Blender\\Blender projects\\Gameboy Color\\Unwraps\\Logos and Icons\\POWER_ICON.png
